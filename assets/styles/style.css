@@ -1,0 +1,96 @@
+.lef {
+    padding-right: 55px;
+    padding-left: 50px;
+    left: 62%!important;
+}
+
+.pad-wisantap {
+    padding-top: 33px!important;
+    text-align: center;
+}
+
+.cusfont {
+    margin-bottom: 29px;
+    font-family: 'Lobster Two';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+
+    color: #F1F2F6;
+}
+
+.bordernya {
+    background: #192A56;
+    border: 1px solid #F1F2F6;
+    border-radius: 10px;
+}
+
+label {
+    margin-bottom: 39px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #F1F2F6;
+
+}
+
+.kotak button {
+    margin-bottom: 29px;
+    width: 399px;
+    height: 43px;
+    background: #FA8231;
+    border: 1px solid #FA8231;
+    border-radius: 10px;
+}
+
+.masuk {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #F1F2F6;
+
+}
+
+.lupapass {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line: underline;
+
+    color: #FA8231;
+}
+
+.regist {
+    margin-top: 63px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #F1F2F6;
+}
+
+.regist a {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line: underline;
+
+    color: #FA8231;
+}
