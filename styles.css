@@ -1,0 +1,19 @@
+.lobster{
+    font-family: 'Lobster Two', cursive;
+}
+.inter{
+    font-family: 'Inter', sans-serif;
+}
+
+#hero .content{
+    margin-top: -100px;
+    background: #192A56;
+}
+
+#hero .container{
+    margin-top: -400px;
+}
+
+.bg-orange{
+    background: #FA8231;
+}
